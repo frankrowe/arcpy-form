@@ -1,3 +1,3 @@
 # arcpy form
-install pip
-pip install Flask
+- install pip
+- pip install Flask
