@@ -1,3 +1,4 @@
 # arcpy form
-- install pip
-- pip install Flask
+- install pip (http://www.pip-installer.org/en/latest/installing.html)
+- `pip install Flask`
+- `python server.py`
