@@ -7,8 +7,8 @@ app = Flask(__name__)
 
 # Home page (localhost:5000)
 @app.route("/")
-def hello(name=None):
-  return render_template('form.html', name=name)
+def hello():
+  return render_template('form.html')
 
 
 
